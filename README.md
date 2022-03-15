@@ -8,6 +8,8 @@ I'm currently enrolled in the GA Tech Full Stack Coding Bootcamp and working tow
 
 📫 How to reach me: amachkel@gmail.com
 
+⚡ Fun fact: I have two sphynx cats, and they're amazing. 🐈🐈
+
 😄 Pronouns: She/Her
 <!--
 **amachkel/amachkel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,5 +23,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 -  ...
 -  ...
-- ⚡ Fun fact: ...
+- 
 -->
