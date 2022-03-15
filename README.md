@@ -4,7 +4,7 @@ I'm currently enrolled in the GA Tech Full Stack Coding Bootcamp and working tow
 
 💻 Languages I use: JavaScript, CSS, HTML5
 
-🌱 I’m currently learning: Node.js, Express, MySQL, Bulma
+🌱 I’m currently learning: Node.js, Express, SQL, Bulma
 
 📫 How to reach me: amachkel@gmail.com
 
