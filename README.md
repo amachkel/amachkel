@@ -2,7 +2,7 @@
 
 I'm currently enrolled in the GA Tech Full Stack Coding Bootcamp and working towards becoming a MERN stack developer. Let's get in touch! amachkel@gmail.com
 
-### Languages
+### Languages:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Technologies I use:
