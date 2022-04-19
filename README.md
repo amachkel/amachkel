@@ -11,6 +11,7 @@ With a background in early childhood development/education, I bring creativity, 
 <img src="https://bulma.bootcss.com/images/made-with-bulma.png" alt="Made with Bulma" width="128" height="24">
 </a>
 
-<!-- ### Currently Learning: -->
+### Currently Learning:
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 
