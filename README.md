@@ -1,4 +1,4 @@
-## Hi there! I'm Alex, a design system and UI engineer.
+## Hi there! I'm Alex, a Design System and Front End engineer.
 
 I am a lead developer on the internal design system for Delta Air Lines. I have worked for Delta since October 2022. Working as a design system engineer lets me enjoy the best part of both worlds: Design, and Coding! I am always looking to level-up my skills and experiences and love to work with passionate people that I can learn from.
 
